@@ -11,10 +11,10 @@ export default {
     extend: {
       colors: {
         gold: {
-          DEFAULT: '#D4AF37',
-          light: '#E8C84A',
-          dark: '#B8962E',
-          muted: '#D4AF3720',
+          DEFAULT: '#920808',
+          light: '#b66d6d',
+          dark: '#f00f0f',
+          
         },
         obsidian: {
           DEFAULT: '#0A0A0A',
