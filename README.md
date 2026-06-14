@@ -148,7 +148,7 @@ Deploy the dist/ folder to Vercel or Netlify. Add VITE_APPS_SCRIPT_URL in your h
 
 ## Customisation
 
-| What to change | Where |
+| What to change | Where 
 |---|---|
 | Brand name / logo | Navbar.tsx, Footer.tsx, index.html |
 | Hero headline | Hero.tsx |
