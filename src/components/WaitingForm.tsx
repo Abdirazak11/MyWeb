@@ -168,7 +168,7 @@ export default function WaitingForm({ onSuccess }: WaitingFormProps) {
                       <input
                         id="full_name"
                         type="text"
-                        placeholder="Ahmed Al Mansouri"
+                        placeholder="Abdourazak Ali"
                         autoComplete="name"
                         className="form-input w-full px-4 py-3 rounded-sm text-sm font-body"
                         aria-invalid={!!errors1.full_name}
@@ -193,7 +193,7 @@ export default function WaitingForm({ onSuccess }: WaitingFormProps) {
                       <input
                         id="email"
                         type="email"
-                        placeholder="ahmed@company.ae"
+                        placeholder="abdourazkegh@company.ae"
                         autoComplete="email"
                         className="form-input w-full px-4 py-3 rounded-sm text-sm font-body"
                         aria-invalid={!!errors1.email}
